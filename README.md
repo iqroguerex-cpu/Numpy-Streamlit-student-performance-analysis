@@ -9,7 +9,7 @@
 
 <!-- Replace with your deployed link -->
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-brightgreen?logo=rocket)](https://your-streamlit-app-link.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-brightgreen?logo=rocket)](https://pf4cqs6ktw3azxwyuvefrh.streamlit.app/)
 
 </p>
 
